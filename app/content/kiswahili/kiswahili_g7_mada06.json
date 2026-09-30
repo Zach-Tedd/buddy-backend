@@ -1,0 +1,159 @@
+{
+  "subject": "Kiswahili",
+  "grade": 7,
+  "language": "sw",
+  "curriculum": "KICD CBC Kiswahili Gredi ya Saba, Toleo la Kwanza 2022, Iliyorekebishwa 2024",
+  "source_verified": true,
+  "source_note": "Mada, mada ndogo, matokeo maalum na maswali dadisi yamethibitishwa dhidi ya waraka rasmi wa KICD. Maelezo, mifano na maswali-majibu ni asilia. Kiswahili kinahitaji ukaguzi wa mzungumzaji asilia kabla ya matumizi ya mwisho.",
+  "needs_native_review": true,
+  "strand": {
+    "id": "6.0",
+    "title": "Usalama Shuleni",
+    "cross_cutting_issue": "Usalama shuleni",
+    "links_to_other_subjects": [
+      "English",
+      "Creative Arts and Sports",
+      "Integrated Science",
+      "Agriculture"
+    ],
+    "sub_strands": [
+      {
+        "id": "6.1.1",
+        "title": "Kusikiliza kwa Kufasiri",
+        "lessons": 2,
+        "kicd_learning_outcomes": [
+          "kueleza kwa usahihi masuala yanayozungumziwa katika matini ya kusikiliza",
+          "kufasiri habari katika matini ya kusikiliza",
+          "kueleza maana ya msamiati kama ulivyotumika katika matini ya kusikiliza",
+          "kutabiri kitakachotokea katika matini kwa kurejelea vidokezo katika matini ya kusikiliza",
+          "kufurahia kufasiri matini za kusikiliza ili kukuza stadi ya kusikiliza"
+        ],
+        "key_inquiry_questions": [
+          "Je, ni mambo gani utakayozingatia katika kuchanganua habari uliyosikiliza?"
+        ],
+        "key_concepts": [
+          "Fasiri ujumbe, si maneno tu",
+          "Eleza msamiati kulingana na muktadha",
+          "Tabiri kwa kutumia vidokezo kama picha, kichwa na toni ya msemaji"
+        ],
+        "kenyan_examples": [
+          "Tangazo la shule kuhusu tahadhari ya moto",
+          "Habari ya redio kuhusu usalama wa watoto barabarani"
+        ],
+        "qa_pairs": [
+          {
+            "q": "Kufasiri habari ninayosikiliza kunamaanisha nini?",
+            "a": "Kufasiri ni kuelewa ujumbe uliokusudiwa, si maneno tu. Sikiliza kwa makini, tambua wazo kuu, eleza maana ya msamiati kulingana na muktadha, na utabiri kitakachofuata. Tangazo la shule kuhusu moto linaweza kukuelekeza kukimbilia eneo salama. Ni ujumbe gani mkuu katika tangazo la mwisho ulilosikia shuleni?"
+          },
+          {
+            "q": "Nitabiri vipi kitakachotokea katika habari niliyosikiliza?",
+            "a": "Tumia vidokezo kama kichwa cha habari, toni ya msemaji na maneno muhimu yanayorudiwa. Msemaji akizungumza kwa haraka na kwa wasiwasi kuhusu mvua kubwa, unaweza kutabiri onyo la usalama. Toa sababu ya utabiri wako. Utabiri wako ungebadilika vipi ukisikia toni ya furaha?"
+          }
+        ],
+        "diagrams": []
+      },
+      {
+        "id": "6.2.1",
+        "title": "Kusoma kwa Kina: Novela, Maudhui na Dhamira",
+        "lessons": 2,
+        "kicd_learning_outcomes": [
+          "kueleza dhana za maudhui na dhamira katika fasihi",
+          "kujadili maudhui katika novela",
+          "kujadili dhamira katika novela",
+          "kutoa muhtasari wa dhamira na maudhui kuhusu novela",
+          "kujenga mazoea ya usomaji wa kazi za fasihi katika maisha ya kila siku"
+        ],
+        "key_inquiry_questions": [
+          "Vitabu vya fasihi ulivyowahi kusoma vinazungumzia nini?"
+        ],
+        "key_concepts": [
+          "Maudhui ni mambo yanayozungumziwa katika kazi ya fasihi",
+          "Dhamira ni lengo au ujumbe wa mwandishi",
+          "Gredi ya Saba haihitaji uhakiki wa kina wa novela"
+        ],
+        "kenyan_examples": [
+          "Maudhui ya usalama, urafiki au ukatili; dhamira ya kuhimiza tahadhari"
+        ],
+        "qa_pairs": [
+          {
+            "q": "Maudhui na dhamira katika novela ni nini?",
+            "a": "Maudhui ni mambo yanayozungumziwa katika kazi ya fasihi, kama usalama, urafiki au ukatili. Dhamira ni lengo au ujumbe ambao mwandishi anataka kufikisha kwa msomaji. Novela yenye maudhui ya ajali inaweza kuwa na dhamira ya kuhimiza tahadhari. Katika novela uliyosoma, ni maudhui gani yalikuvutia?"
+          },
+          {
+            "q": "Nitatambuaje dhamira ya novela niliyosoma?",
+            "a": "Jiulize: mwandishi anataka nijifunze nini? Angalia matukio makuu, mwisho wa hadithi, na matokeo ya matendo ya wahusika. Kisha eleza dhamira kwa sentensi moja fupi. Kwa Gredi ya Saba huhitaji uhakiki wa kina; elewa ujumbe mkuu tu. Ni funzo gani kuu ulilopata kutoka kwa novela yako?"
+          }
+        ],
+        "diagrams": [],
+        "buddy_content_note": "Buddy asiigize wala kufupisha kwa kina novela halisi iliyoidhinishwa na KICD. Fundisha stadi na dhana za jumla pekee."
+      },
+      {
+        "id": "6.3.1",
+        "title": "Insha za Kubuni: Picha",
+        "lessons": 2,
+        "kicd_learning_outcomes": [
+          "kubuni anwani inayooana na kisa atakachosimulia kutokana na picha katika matini",
+          "kutoa maelezo dhahiri kuhusu matukio katika picha kwenye matini",
+          "kuandika kisa chenye maelezo dhahiri kutokana na picha katika matini",
+          "kufurahia kusimulia kisa kutokana na picha ili kukuza ubunifu"
+        ],
+        "key_inquiry_questions": [
+          "Je, ni vigezo vipi utakavyozingatia wakati wa kuandika insha ya kubuni kutokana na picha?"
+        ],
+        "key_concepts": [
+          "Tazama picha kwa makini: matukio, wahusika, mahali",
+          "Buni anwani inayooana na kisa",
+          "Toa maelezo dhahiri ya matukio"
+        ],
+        "kenyan_examples": [
+          "Picha ya wanafunzi wakipanga foleni wakati wa tahadhari ya moto",
+          "Picha ya wanafunzi wakivuka barabara na mlinzi"
+        ],
+        "qa_pairs": [
+          {
+            "q": "Naandikaje insha ya picha?",
+            "a": "Angalia picha kwa makini uone matukio, wahusika na mahali. Buni anwani inayolingana na kisa chako, kisha andika kisa chenye maelezo dhahiri kuhusu kinachoendelea. Picha ya wanafunzi wakipanga foleni wakati wa tahadhari ya moto inaweza kuwa 'Siku ya Tahadhari Shuleni'. Anwani gani ungebuni kwa picha ya wanafunzi wakivuka barabara na mlinzi?"
+          },
+          {
+            "q": "Anwani nzuri ya insha ya picha iweje?",
+            "a": "Anwani iwe fupi, iendane na kisa unachosimulia na ivutie msomaji. Usieleze kisa chote katika anwani. Mfano: 'Tahadhari Iliyookoa Maisha'. Baada ya kuandika, isome upya kuhakikisha inaoana na kisa. Buni anwani mbili tofauti za picha ya ajali ndogo uwanjani, kisha uchague bora zaidi."
+          }
+        ],
+        "diagrams": []
+      },
+      {
+        "id": "6.4.1",
+        "title": "Vitenzi: Vitenzi Vikuu na Vitenzi Visaidizi",
+        "lessons": 2,
+        "kicd_learning_outcomes": [
+          "kutambua vitenzi vikuu na visaidizi katika matini",
+          "kutumia vitenzi vikuu na visaidizi ipasavyo katika matini",
+          "kuchangamkia kutumia vitenzi vikuu na visaidizi ipasavyo katika mawasiliano"
+        ],
+        "key_inquiry_questions": [
+          "Tunatofautisha vitenzi vikuu na vitenzi visaidizi kwa njia gani?"
+        ],
+        "key_concepts": [
+          "Kitenzi kikuu hubeba maana kuu ya kitendo",
+          "Kitenzi kisaidizi husaidia kuonyesha wakati au hali",
+          "Visaidizi: kuwa, weza, kuja, -ngali, bidi, wahi"
+        ],
+        "kenyan_examples": [
+          "alikuwa anacheka (alikuwa = kisaidizi, anacheka = kikuu)",
+          "Mtoto huyu huwa anajali usalama wake"
+        ],
+        "qa_pairs": [
+          {
+            "q": "Kitenzi kikuu na kitenzi kisaidizi ni nini?",
+            "a": "Kitenzi kikuu hubeba maana kuu ya kitendo. Kitenzi kisaidizi husaidia kuonyesha wakati au hali. Visaidizi ni kama kuwa, weza, kuja, -ngali, bidi na wahi. Mfano: 'Mtoto huyu huwa anajali usalama wake.' Hapa 'huwa' ni kisaidizi na 'anajali' ni kikuu. Tambua kitenzi kikuu katika sentensi: 'Alikuwa anacheka uwanjani.'"
+          },
+          {
+            "q": "Nitunge sentensi yenye kitenzi kisaidizi kuhusu usalama?",
+            "a": "Chagua kisaidizi kama 'huwa', 'alikuwa' au 'angali', kisha ongeza kitenzi kikuu. Mfano: 'Wanafunzi huwa wanapanga foleni wakati wa tahadhari ya moto.' Hapa 'huwa' ni kisaidizi na 'wanapanga' ni kikuu. Sasa tunga sentensi yako kuhusu usalama wa nyumbani ukitumia 'alikuwa'."
+          }
+        ],
+        "diagrams": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "subject": "Kiswahili",
+  "grade": 7,
+  "language": "sw",
+  "curriculum": "KICD CBC Kiswahili Gredi ya Saba, Toleo la Kwanza 2022, Iliyorekebishwa 2024",
+  "source_verified": true,
+  "source_note": "Mada, mada ndogo, matokeo maalum na maswali dadisi yamethibitishwa dhidi ya waraka rasmi wa KICD. Maelezo, mifano na maswali-majibu ni asilia. Kiswahili kinahitaji ukaguzi wa mzungumzaji asilia kabla ya matumizi ya mwisho.",
+  "needs_native_review": true,
+  "strand": {
+    "id": "1.0",
+    "title": "Usafi wa Kibinafsi",
+    "cross_cutting_issue": "Usafi wa kibinafsi",
+    "links_to_other_subjects": [
+      "English",
+      "Integrated Science",
+      "Agriculture"
+    ],
+    "sub_strands": [
+      {
+        "id": "1.1.1",
+        "title": "Kusikiliza na Kujibu: Mazungumzo",
+        "lessons": 2,
+        "kicd_learning_outcomes": [
+          "kutambua vipengele vya kuzingatia katika usikilizaji wa mazungumzo",
+          "kutambua vipengele vya kuzingatia katika kujibu mazungumzo",
+          "kutumia vipengele vifaavyo katika kusikiliza na kujibu mazungumzo",
+          "kuchangamkia kushiriki mazungumzo katika miktadha mbalimbali"
+        ],
+        "key_inquiry_questions": [
+          "Je, unaposikiliza mazungumzo unapaswa kuzingatia nini ili kupata ujumbe unaowasilishwa?",
+          "Unazingatia nini unapomjibu mtu katika mazungumzo?"
+        ],
+        "key_concepts": [
+          "Sikiliza kwa makini bila kukatiza",
+          "Mwangalie msemaji na uzingatie ujumbe mkuu",
+          "Subiri zamu yako, kisha jibu kwa heshima",
+          "Jibu lilingane na swali lililoulizwa"
+        ],
+        "kenyan_examples": [
+          "Mazungumzo ya simu na nyanya kuhusu kunawa mikono",
+          "Kuigiza mazungumzo na mzazi kuhusu kuoga kila siku"
+        ],
+        "qa_pairs": [
+          {
+            "q": "Nifanye nini ili nisikilize mazungumzo vizuri?",
+            "a": "Sikiliza kwa makini bila kukatiza. Mwangalie msemaji, na uzingatie ujumbe mkuu pamoja na maneno mapya. Ukiwa na swali, subiri amalize kisha uliza kwa heshima. Kwa mfano, mama akikueleza umuhimu wa kunawa mikono, msikilize mwanzo hadi mwisho kabla ya kujibu. Ni jambo gani hukusumbua zaidi unaposikiliza mtu akizungumza?"
+          },
+          {
+            "q": "Nimjibuje mtu kwa adabu katika mazungumzo?",
+            "a": "Jibu kwa sauti ya kawaida na utumie maneno ya heshima kama 'tafadhali' na 'asante'. Hakikisha jibu lako linalingana na swali, na usimkatize mzungumzaji. Mwalimu akikuuliza kuhusu usafi wako, jibu kwa utulivu na ukweli. Kwa nini heshima ni muhimu katika mazungumzo?"
+          }
+        ],
+        "diagrams": []
+      },
+      {
+        "id": "1.2.1",
+        "title": "Kusoma kwa Ufahamu: Kifungu cha Simulizi",
+        "lessons": 2,
+        "kicd_learning_outcomes": [
+          "kudondoa habari mahususi katika kifungu cha simulizi",
+          "kupanga matukio yanavyofuatana katika kifungu cha simulizi",
+          "kufanya utabiri na ufasiri kutokana na kifungu cha simulizi",
+          "kueleza msamiati katika kifungu cha simulizi",
+          "kuchangamkia kusoma vifungu vya simulizi ili kukuza uelewa wa habari"
+        ],
+        "key_inquiry_questions": [
+          "Kwa nini tunasoma ufahamu?",
+          "Je, ni mambo gani yanayoweza kukusaidia kuelewa kifungu cha simulizi?"
+        ],
+        "key_concepts": [
+          "Uliza: nani, nini, wapi, lini",
+          "Panga matukio kwa mfuatano wake",
+          "Tabiri kwa kutumia vidokezo",
+          "Tumia kamusi kwa maneno mapya"
+        ],
+        "kenyan_examples": [
+          "Kifungu kuhusu mtoto anayenawa mikono kabla ya kula",
+          "Simulizi kuhusu mwanafunzi anayepiga mswaki asubuhi na jioni"
+        ],
+        "qa_pairs": [
+          {
+            "q": "Nifanyeje nikisoma kifungu cha simulizi ili nikielewe?",
+            "a": "Kisome polepole, kisha tafuta habari mahususi kwa kuuliza: nani, nini, wapi na lini. Panga matukio kwa mfuatano wake na utumie kamusi kwa maneno usiyoyajua. Kwa mfano, kifungu kuhusu mtoto anayenawa mikono kabla ya kula kinakuonyesha jinsi usafi unavyolinda afya. Ni neno gani jipya ulilojifunza hivi karibuni?"
+          },
+          {
+            "q": "Kutabiri katika kifungu cha simulizi ni nini?",
+            "a": "Kutabiri ni kubashiri kitakachotokea kwa kutumia vidokezo ulivyosoma, kama kichwa cha kifungu au tabia ya wahusika. Si kubahatisha tu; unatoa sababu. Mhusika akipuuza usafi wa meno, unaweza kutabiri atapata maumivu ya meno. Unadhani nini kitatokea kwa mhusika asiyeoga mara kwa mara? Toa sababu."
+          }
+        ],
+        "diagrams": []
+      },
+      {
+        "id": "1.3.1",
+        "title": "Viakifishi: Herufi Kubwa na Kikomo",
+        "lessons": 2,
+        "kicd_learning_outcomes": [
+          "kutambua herufi kubwa na kikomo katika matini",
+          "kueleza matumizi ya herufi kubwa na kikomo katika matini",
+          "kutumia herufi kubwa na kikomo ipasavyo katika matini",
+          "kuonea fahari matumizi ya herufi kubwa na kikomo katika matini ili kufanikisha mawasiliano"
+        ],
+        "key_inquiry_questions": [
+          "Herufi kubwa na kikomo hutumika vipi katika maandishi?"
+        ],
+        "key_concepts": [
+          "Herufi kubwa mwanzoni mwa sentensi",
+          "Herufi kubwa katika majina ya pekee, siku na miezi",
+          "Kikomo (.) mwishoni mwa sentensi ya kauli"
+        ],
+        "kenyan_examples": [
+          "Wanjiru, Nairobi, Kenya, Jumatatu, Machi"
+        ],
+        "qa_pairs": [
+          {
+            "q": "Herufi kubwa hutumiwa wapi katika Kiswahili?",
+            "a": "Herufi kubwa hutumiwa mwanzoni mwa sentensi na katika majina ya pekee kama Wanjiru, Nairobi na Kenya. Pia hutumiwa katika siku na miezi kama Jumatatu na Machi. Kikomo huwekwa mwishoni mwa sentensi ya kauli. Mfano: Wanjiru huoga kila siku. Andika sentensi moja kuhusu usafi wako ukitumia herufi kubwa na kikomo."
+          },
+          {
+            "q": "Kikomo hutumiwa lini?",
+            "a": "Kikomo huwekwa mwishoni mwa sentensi inayotoa taarifa, kuonyesha kwamba sentensi imekamilika. Mfano: Ninanawa mikono kabla ya kula. Bila kikomo, msomaji hajui sentensi inaishia wapi. Kwa nini unadhani kikomo kinamsaidia msomaji?"
+          }
+        ],
+        "diagrams": []
+      },
+      {
+        "id": "1.4.1",
+        "title": "Aina za Nomino: Nomino za Pekee na za Kawaida",
+        "lessons": 2,
+        "kicd_learning_outcomes": [
+          "kutambua nomino za pekee na za kawaida katika matini",
+          "kutambua aina za nomino za pekee katika matini",
+          "kutumia nomino za pekee na za kawaida ipasavyo katika matini",
+          "kuchangamkia matumizi ya nomino za pekee na za kawaida katika matini ili kufanikisha mawasiliano"
+        ],
+        "key_inquiry_questions": [
+          "Ni vitu gani katika mazingira yako ambavyo ni nomino za pekee?",
+          "Ni vitu gani katika mazingira yako ambavyo ni nomino za kawaida?"
+        ],
+        "key_concepts": [
+          "Nomino za pekee: majina ya watu, siku za wiki, miezi, mito, nchi, anwani za vitabu, magazeti na majarida",
+          "Nomino za kawaida ni majina ya jumla ya vitu au watu"
+        ],
+        "kenyan_examples": [
+          "Pekee: Otieno, Jumatano, Aprili, Mto Tana, Kenya, gazeti la Taifa Leo",
+          "Kawaida: mtoto, sabuni, maji, mswaki"
+        ],
+        "qa_pairs": [
+          {
+            "q": "Nomino za pekee ni nini? Nipe mifano ya Kenya.",
+            "a": "Nomino za pekee ni majina ya kipekee ya mtu, mahali au kitu, na huandikwa kwa herufi kubwa. Mifano: Otieno, Jumatano, Aprili, Mto Tana, Kenya na gazeti la Taifa Leo. Nomino za kawaida ni majina ya jumla kama mtoto, sabuni na maji. Taja nomino moja ya pekee na moja ya kawaida kutoka darasani kwenu."
+          },
+          {
+            "q": "Nitofautishe vipi nomino ya pekee na ya kawaida?",
+            "a": "Nomino ya pekee hutaja mtu, mahali au kitu mahususi kama Kenya au Otieno, na huanza kwa herufi kubwa kila mahali. Ya kawaida hutaja jamii ya vitu kama nchi au mvulana. Mfano: 'nchi' ni ya kawaida, 'Kenya' ni ya pekee. Je, 'mto' na 'Mto Nzoia' ni aina gani ya nomino kila moja?"
+          }
+        ],
+        "diagrams": []
+      }
+    ]
+  }
+}

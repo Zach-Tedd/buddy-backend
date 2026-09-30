@@ -1,0 +1,107 @@
+{
+  "subject": "Integrated Science",
+  "grade": 7,
+  "curriculum": "KICD CBC 2021 (Junior Secondary School Curriculum Design, Grade 7)",
+  "source_verified": true,
+  "strand": {
+    "id": "3.0",
+    "title": "Living Things and their Environment",
+    "sub_strands": [
+      {
+        "id": "3.1",
+        "title": "Reproduction in Human Beings",
+        "lessons": 16,
+        "kicd_scope_note": "KICD explicitly scopes this sub-strand to: the menstrual cycle, its challenges, and the process of fertilization and implantation. This content must be handled with a clinical, factual, respectful tone appropriate for Grade 7 students, matching the sensitivity KICD itself specifies through its emphasis on 'appreciate the existence of sex-related challenges' as a learning outcome.",
+        "kicd_learning_outcomes": [
+          "describe the menstrual cycle in human beings",
+          "describe challenges related to the menstrual cycle",
+          "describe the process of fertilization and implantation",
+          "appreciate the existence of sex-related challenges"
+        ],
+        "key_inquiry_questions": [
+          "How does reproduction occur in human beings?",
+          "What challenges are associated with menstruation in human beings?",
+          "How best can we manage issues related to the menstrual cycle?"
+        ],
+        "key_concepts": [
+          "The menstrual cycle is a monthly process in the female body, typically lasting around 28 days, preparing the body for possible pregnancy",
+          "Common challenges related to the menstrual cycle include menstrual pain (cramps), irregular cycles, and limited access to sanitary products",
+          "Fertilization is the joining of a sperm cell and an egg cell to form a zygote",
+          "Implantation is when the fertilized zygote attaches to the lining of the uterus, where it will develop",
+          "Understanding these processes helps students appreciate reproductive health and supports informed, respectful attitudes toward these topics"
+        ],
+        "kenyan_examples": [
+          "Access to affordable sanitary products remains a real challenge for many girls in Kenyan schools, which is why some schools and organisations provide reusable sanitary pad programmes",
+          "Community health education programmes in Kenya often include menstrual health awareness to reduce stigma and support girls staying in school during their cycle"
+        ],
+        "qa_pairs": [
+          {
+            "q": "What is the menstrual cycle?",
+            "a": "The menstrual cycle is a natural monthly process in the female body, typically lasting about 28 days, during which the body prepares for a possible pregnancy. If fertilization does not occur, the lining of the uterus is shed, which is what causes menstruation. This is a normal and healthy biological process that every female experiences. Why do you think understanding this process helps reduce unnecessary stigma or embarrassment around menstruation?"
+          },
+          {
+            "q": "What challenges do many girls face related to the menstrual cycle?",
+            "a": "Common challenges include menstrual pain or cramps, irregular cycles, and in many communities, limited access to affordable sanitary products, which can sometimes affect school attendance. Awareness of these challenges has led some schools and organisations in Kenya to provide sanitary product support programmes. Recognising these challenges as normal and addressing them openly helps remove stigma. What do you think schools or communities could do to better support students facing these challenges?"
+          },
+          {
+            "q": "What is fertilization, and what happens afterward?",
+            "a": "Fertilization is the joining of a sperm cell and an egg cell to form a single new cell called a zygote. After fertilization, the zygote travels and implants itself into the lining of the uterus, a process called implantation, where it will begin to develop. This marks the beginning of pregnancy. Why do you think both fertilization and implantation need to happen successfully for a pregnancy to continue?"
+          }
+        ],
+        "diagrams": [
+          {"topic": "Simple, age-appropriate diagram of fertilization and implantation stages", "status": "needed_sensitive_review", "source": "to_source_wikimedia_or_commission", "review_note": "Any diagram for this sub-strand requires teacher and possibly health-educator review before use, given the sensitivity of the topic."}
+        ]
+      },
+      {
+        "id": "3.2",
+        "title": "Human Excretory System — Skin and Kidneys",
+        "lessons": 11,
+        "kicd_scope_note": "KICD explicitly restricts this sub-strand to EXTERNAL parts and functions only. The document states: 'avoid homeostatic functions of the skin' and 'avoid details of the nephron and osmoregulation.' Content must not go into internal cellular-level detail of either organ — this is a Grade 7 introductory level, not advanced biology.",
+        "kicd_learning_outcomes": [
+          "identify the external parts of the human skin and their functions",
+          "identify the external parts of the kidney and their functions",
+          "describe causes of kidney disorders",
+          "adopt a healthy lifestyle to promote kidney and skin health",
+          "appreciate the importance of proper use of cosmetics for consumer protection"
+        ],
+        "key_inquiry_questions": [
+          "Why is the skin important in humans?",
+          "Why is excretion important to the human body?",
+          "Why is proper use of cosmetics important?"
+        ],
+        "key_concepts": [
+          "The skin excretes waste products through sweat, which contains salts and water",
+          "External parts of the skin include the outer covering, hair, sweat glands, and sweat pores",
+          "The kidneys excrete waste in the form of urine",
+          "External parts of the kidney (avoiding internal nephron detail) include the outer structure that filters blood and produces urine",
+          "Kidney disorders can be caused by factors such as dehydration, high blood pressure, and poor diet over time",
+          "A healthy lifestyle — including adequate hydration and balanced diet — helps maintain kidney and skin health",
+          "Some cosmetics, such as certain skin-lightening creams and lotions, can be harmful to skin health if used improperly, making consumer awareness important"
+        ],
+        "kenyan_examples": [
+          "The health risks of certain skin-lightening products sold informally in some Kenyan markets is a real, discussed consumer protection issue",
+          "Adequate water intake, especially important in Kenya's warmer regions, supports healthy kidney function by helping the body flush out waste properly",
+          "Locally made, natural cosmetic alternatives are sometimes promoted in Kenya as safer choices than certain imported skin products of unclear origin"
+        ],
+        "qa_pairs": [
+          {
+            "q": "What waste products does the skin remove from the body, and how?",
+            "a": "The skin removes waste through sweat, which is produced by sweat glands and released through sweat pores. Sweat contains water and dissolved salts that the body needs to get rid of. This is one reason people feel thirsty and need to drink more water after sweating heavily, such as during physical activity in hot weather. Why do you think staying hydrated matters more on a hot day when you are sweating more than usual?"
+          },
+          {
+            "q": "What waste product do the kidneys remove, and why does this matter for health?",
+            "a": "The kidneys filter the blood and remove waste in the form of urine. This process is essential because it removes harmful substances that would otherwise build up in the body and cause illness. Kidney disorders can develop over time due to factors like chronic dehydration, high blood pressure, or an unhealthy diet, which is why maintaining good hydration and nutrition habits protects kidney health long-term. Why do you think doctors often ask patients how much water they drink daily as part of a general health check?"
+          },
+          {
+            "q": "Why is it important to be cautious about certain cosmetics, like skin-lightening creams?",
+            "a": "Some skin-lightening creams and lotions contain harsh chemicals that can damage the skin with repeated use, sometimes causing long-term harm rather than the cosmetic benefit advertised. This is a real consumer protection issue, and being an informed consumer means checking product ingredients and understanding potential risks before use. Choosing well-tested, reputable products protects both your skin and your overall health. What do you think makes a product trustworthy versus risky when you are choosing a cosmetic?"
+          }
+        ],
+        "diagrams": [
+          {"topic": "External structure of human skin (labelled: hair, sweat pore, outer layer)", "status": "needed", "source": "to_source_wikimedia_or_commission"},
+          {"topic": "External structure of the kidney (basic, non-nephron level)", "status": "needed", "source": "to_source_wikimedia_or_commission"}
+        ]
+      }
+    ]
+  }
+}

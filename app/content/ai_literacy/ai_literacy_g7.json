@@ -1,0 +1,164 @@
+{
+  "subject": "AI Literacy",
+  "subject_sw": "Ujuzi wa AI",
+  "grade": 7,
+  "curriculum": "Buddy Original Curriculum — not KICD-sourced",
+  "source_verified": false,
+  "source_note": "No official KICD strand for AI Literacy exists at Grade 7 as of this writing. This is Buddy's own original curriculum, designed to prepare students to direct and question AI tools, not just consume answers from them. Content is bilingual by design, modelling the behaviour it teaches. Requires teacher and native-speaker review before wide deployment, same as all Buddy content.",
+  "needs_review": true,
+  "strand": {
+    "id": "AI.0",
+    "title": "AI Literacy",
+    "title_sw": "Ujuzi wa Akili Bandia",
+    "sub_strands": [
+      {
+        "id": "AI.1",
+        "title": "Asking Buddy Better Questions",
+        "title_sw": "Kumwuliza Buddy Vizuri",
+        "lessons": 2,
+        "buddy_learning_outcomes": [
+          "explain why a specific question gets a better answer than a vague one",
+          "rewrite a vague question into a specific, useful one",
+          "value clear questioning as a real skill, not a small detail"
+        ],
+        "key_inquiry_question": "Why does how you ask a question change the answer you get?",
+        "key_concepts": [
+          "A vague question like 'tell me about plants' forces Buddy to guess what you actually want",
+          "A specific question like 'why do plant leaves turn yellow when they lack water' gets a focused, useful answer",
+          "Good questions usually include: what exactly you want to know, and why or in what context",
+          "This is not just an AI skill — it is the same skill used when asking a teacher, a doctor, or a shopkeeper for help"
+        ],
+        "kenyan_examples": [
+          "Asking a shopkeeper 'do you have soap' versus 'do you have bar soap for KES 50 or less' — the second gets you what you actually need faster",
+          "Asking a boda boda rider 'how much to town' versus 'how much from here to the market near the police station' — specifics remove confusion"
+        ],
+        "qa_pairs": [
+          {
+            "q": "Why did my vague question to Buddy get a vague answer?",
+            "a": "Buddy answers based on exactly what you ask. A vague question like 'tell me about mixtures' could mean many things — Buddy has to guess. A specific question like 'what is the difference between a mixture and a compound' tells Buddy exactly what you want, so it can give you a focused answer. This is the same reason a specific request at a shop, like asking for bar soap under fifty shillings, works better than just asking 'do you have soap.' Try asking Buddy the same topic two ways — vague, then specific — and compare the answers.",
+            "q_sw": "Kwa nini swali langu lisilo wazi kwa Buddy lilipata jibu lisilo wazi?",
+            "a_sw": "Buddy hujibu kulingana na kile hasa unachouliza. Swali lisilo wazi kama 'niambie kuhusu michanganyiko' laweza kumaanisha mambo mengi — Buddy inalazimika kukisia. Swali mahususi kama 'tofauti kati ya mchanganyiko na kiwanja ni nini' linamwambia Buddy hasa unachotaka, hivyo anaweza kutoa jibu linalolenga. Hii ni sababu ileile ombi mahususi dukani, kama kuuliza sabuni ya baa isiyozidi shilingi hamsini, hufanya kazi vizuri zaidi kuliko kuuliza tu 'una sabuni?' Jaribu kumwuliza Buddy mada ileile kwa njia mbili — isiyo wazi, kisha mahususi — kisha ulinganishe majibu."
+          },
+          {
+            "q": "What makes a question 'specific' instead of vague?",
+            "a": "A specific question names exactly what you want to know and often includes a bit of context. Instead of 'explain electricity,' try 'why does a bulb in a series circuit stop working when one bulb burns out.' The second question tells Buddy exactly which part of the topic you care about, so the answer goes straight to what you need instead of covering everything in general. Take a question you asked Buddy recently and rewrite it to be more specific.",
+            "q_sw": "Ni nini kinachofanya swali kuwa 'mahususi' badala ya lisilo wazi?",
+            "a_sw": "Swali mahususi hutaja hasa unachotaka kujua, na mara nyingi huwa na maelezo kidogo ya muktadha. Badala ya 'eleza umeme,' jaribu 'kwa nini balbu katika mzunguko wa mfululizo huzima balbu moja ikizimika.' Swali la pili linamwambia Buddy hasa sehemu ya mada unayojali, hivyo jibu linakwenda moja kwa moja kwa unachohitaji badala ya kufunika kila kitu kwa jumla. Chukua swali ulilomwuliza Buddy hivi karibuni na uliandike upya liwe mahususi zaidi."
+          }
+        ],
+        "diagrams": []
+      },
+      {
+        "id": "AI.2",
+        "title": "Checking If Buddy Is Right",
+        "title_sw": "Kuangalia Kama Buddy Yuko Sahihi",
+        "lessons": 2,
+        "buddy_learning_outcomes": [
+          "explain that AI can sometimes give a wrong or incomplete answer",
+          "describe at least one way to check whether an AI answer is correct",
+          "show willingness to question an AI answer rather than accept it automatically"
+        ],
+        "key_inquiry_question": "Why should you check an answer even when it comes from Buddy?",
+        "key_concepts": [
+          "AI tools, including Buddy, can sometimes get facts wrong, especially on topics outside their trained knowledge",
+          "Checking an answer is not disrespectful to Buddy — it is a normal, healthy habit, the same as double-checking change at a shop",
+          "Ways to check: ask a teacher, compare with a textbook, ask Buddy to explain its reasoning, or ask the same question a different way",
+          "If Buddy's own answer sounds unsure or contradicts something you already learned, that is a signal to check further, not a reason to panic"
+        ],
+        "kenyan_examples": [
+          "Just as you would count your change after buying something at a kiosk instead of assuming it is correct, checking an AI answer against a teacher or textbook is simply good practice",
+          "A matatu conductor announcing a fare does not stop a passenger from confirming the amount before paying"
+        ],
+        "qa_pairs": [
+          {
+            "q": "Can Buddy actually be wrong sometimes?",
+            "a": "Yes. Buddy is a tool trained on a huge amount of information, but it does not know everything perfectly, and it can occasionally make mistakes, especially on tricky or very specific topics. This does not make Buddy useless — it makes checking important, the same way you would count change at a shop instead of assuming it is correct. If something Buddy says feels off or contradicts what your teacher taught you, that is worth double-checking, not ignoring. Has a teacher or textbook ever told you something different from what you expected? What did you do?",
+            "q_sw": "Je, Buddy anaweza kukosea wakati mwingine?",
+            "a_sw": "Ndiyo. Buddy ni chombo kilichofunzwa kwa kutumia habari nyingi sana, lakini hakijui kila kitu kikamilifu, na kinaweza wakati mwingine kukosea, hasa kwenye mada ngumu au mahususi sana. Hii haimfanyi Buddy kuwa asiyefaa — inafanya ukaguzi kuwa muhimu, kama vile ungehesabu chenji dukani badala ya kudhani ni sahihi. Iwapo jambo analosema Buddy linaonekana si sahihi au linapingana na kile mwalimu wako alikufundisha, ni vyema kukagua zaidi, si kupuuza. Je, mwalimu au kitabu kimewahi kukuambia kitu tofauti na ulichotarajia? Ulifanya nini?"
+          },
+          {
+            "q": "How can I check if Buddy's answer is correct?",
+            "a": "A few simple ways: ask your teacher the same question, compare the answer with your textbook, ask Buddy to explain how it got that answer, or ask the question again in a different way and see if the answer stays the same. If different sources agree, you can be more confident. If they disagree, that is worth asking a teacher about directly. Think of one topic Buddy explained to you recently — how could you check if it was fully correct?",
+            "q_sw": "Nawezaje kuangalia kama jibu la Buddy ni sahihi?",
+            "a_sw": "Njia chache rahisi: muulize mwalimu wako swali lilelile, linganisha jibu na kitabu chako, mwombe Buddy aeleze jinsi alivyopata jibu hilo, au uliza swali tena kwa njia tofauti uone kama jibu linabaki lilelile. Vyanzo tofauti vikikubaliana, unaweza kuwa na uhakika zaidi. Visipokubaliana, ni vyema kumuuliza mwalimu moja kwa moja. Fikiria mada moja Buddy alikueleza hivi karibuni — ungewezaje kukagua kama ilikuwa sahihi kabisa?"
+          }
+        ],
+        "diagrams": []
+      },
+      {
+        "id": "AI.3",
+        "title": "Directing Buddy to Help You Learn",
+        "title_sw": "Kumwongoza Buddy Kukusaidia",
+        "lessons": 2,
+        "buddy_learning_outcomes": [
+          "give Buddy an instruction to change how it explains something",
+          "request practice questions or a simpler explanation from Buddy",
+          "see themselves as someone who directs a tool, not just someone who receives answers from it"
+        ],
+        "key_inquiry_question": "How can you tell Buddy exactly how you want help, instead of just accepting whatever it gives you?",
+        "key_concepts": [
+          "You can ask Buddy to explain something again in a simpler way if the first explanation was too hard",
+          "You can ask Buddy to give you practice questions on a topic, not just an explanation",
+          "You can ask Buddy to use a different kind of example, like one from farming instead of cooking",
+          "Directing Buddy this way is a real skill — the same skill used when telling a tailor exactly what changes you want on a garment, instead of just accepting whatever they hand back"
+        ],
+        "kenyan_examples": [
+          "Telling a tailor 'make the sleeves shorter' instead of just accepting the first version handed to you",
+          "Asking a shopkeeper to show you a different size or colour instead of buying the first one shown"
+        ],
+        "qa_pairs": [
+          {
+            "q": "Can I ask Buddy to explain something differently if I didn't understand the first time?",
+            "a": "Yes, and you should. If Buddy's first explanation was too hard, say something like 'explain that again in a simpler way' or 'use a different example.' Buddy will try again with different words or a new example, like using a farming example instead of a cooking one. This is exactly like asking a tailor to shorten sleeves instead of just accepting the first version they hand you — you are allowed to ask for exactly what helps you. Try this right now: pick a topic Buddy explained before, and ask for it in a simpler way.",
+            "q_sw": "Je, ninaweza kumwomba Buddy aeleze jambo kwa njia tofauti nisipoelewa mara ya kwanza?",
+            "a_sw": "Ndiyo, na unapaswa kufanya hivyo. Iwapo maelezo ya kwanza ya Buddy yalikuwa magumu, sema kitu kama 'eleza hilo tena kwa njia rahisi zaidi' au 'tumia mfano tofauti.' Buddy atajaribu tena kwa maneno tofauti au mfano mpya, kama kutumia mfano wa kilimo badala ya upishi. Hii ni sawa kabisa na kumwomba fundi cherehani afupishe mikono badala ya kukubali tu mavazi ya kwanza aliyokupa — unaruhusiwa kuomba hasa kinachokusaidia. Jaribu hivi sasa: chagua mada Buddy alielezea hapo awali, na uombe kwa njia rahisi zaidi."
+          },
+          {
+            "q": "Can Buddy give me practice questions instead of just answers?",
+            "a": "Yes. You can ask Buddy directly, for example 'give me three practice questions about mixtures' or 'quiz me on laboratory safety.' Buddy can create these for you on the spot, and you do not have to wait for a teacher to give you extra practice. This is a way of directing Buddy to work for your specific need, rather than only asking questions and receiving answers passively. What topic would you like three practice questions on right now?",
+            "q_sw": "Je, Buddy anaweza kunipa maswali ya mazoezi badala ya majibu tu?",
+            "a_sw": "Ndiyo. Unaweza kumwomba Buddy moja kwa moja, kwa mfano 'nipe maswali matatu ya mazoezi kuhusu michanganyiko' au 'nipime kuhusu usalama wa maabara.' Buddy anaweza kuunda haya papo hapo, na hulazimiki kusubiri mwalimu akupe mazoezi ya ziada. Hii ni njia ya kumwongoza Buddy afanye kazi kwa hitaji lako mahususi, badala ya kuuliza maswali na kupokea majibu tu kwa unyenyekevu. Ni mada gani ungependa maswali matatu ya mazoezi sasa hivi?"
+          }
+        ],
+        "diagrams": []
+      },
+      {
+        "id": "AI.4",
+        "title": "What AI Actually Is",
+        "title_sw": "AI Ni Nini na Inafanyaje Kazi",
+        "lessons": 2,
+        "buddy_learning_outcomes": [
+          "describe, in simple terms, what an AI tool like Buddy actually is",
+          "explain that AI is trained on information, not alive or magical",
+          "show curiosity about how AI works rather than fear or blind trust"
+        ],
+        "key_inquiry_question": "Is Buddy alive, magic, or something else — and why does knowing the difference matter?",
+        "key_concepts": [
+          "Buddy is a computer program trained on a huge amount of text, so it can recognise patterns in language and generate helpful responses",
+          "Buddy is not alive, does not have feelings, and does not think the way a human does",
+          "Buddy does not 'know' things the way a person remembers their own life — it predicts a helpful response based on patterns it learned during training",
+          "Understanding this helps a student use AI confidently — neither afraid of it, nor blindly trusting everything it says"
+        ],
+        "kenyan_examples": [
+          "Buddy works a bit like a very well-read person who has read millions of books and articles, and can quickly recall and combine what they've read — but has never actually lived through any of it themselves",
+          "A matatu radio plays the exact song requested by the driver's playlist, not because it 'understands' music, but because it was set up to respond that way — AI, at a basic level, is a far more advanced version of a system responding based on how it was built and trained"
+        ],
+        "qa_pairs": [
+          {
+            "q": "Is Buddy alive? Does Buddy actually think?",
+            "a": "No, Buddy is not alive and does not think the way you do. Buddy is a computer program trained on a huge amount of text — books, articles, and other writing — so it learned patterns in language and can generate helpful responses. It does not have feelings, memories of its own life, or real understanding the way a person does. Think of Buddy like an extremely well-read assistant who can quickly recall and combine what it learned, but has never actually lived through any of it. Why do you think it matters to know Buddy is not alive, even though it can talk like it understands you?",
+            "q_sw": "Je, Buddy yuko hai? Je, Buddy hufikiri kwa kweli?",
+            "a_sw": "Hapana, Buddy hayuko hai na hafikirii kama wewe unavyofikiri. Buddy ni programu ya kompyuta iliyofunzwa kwa kutumia maandishi mengi sana — vitabu, makala na maandishi mengine — hivyo ilijifunza mifumo ya lugha na inaweza kutoa majibu yenye manufaa. Haina hisia, kumbukumbu za maisha yake yenyewe, wala uelewa halisi kama mtu. Fikiria Buddy kama msaidizi aliyesoma sana anayeweza kukumbuka na kuchanganya haraka aliyojifunza, lakini hajawahi kuishi kwa kweli chochote kati ya hayo. Kwa nini unadhani ni muhimu kujua kwamba Buddy hayuko hai, ijapokuwa anaweza kuzungumza kana kwamba anakuelewa?"
+          },
+          {
+            "q": "If Buddy isn't alive, how does it know how to answer my questions?",
+            "a": "Buddy was trained on an enormous amount of text, which taught it patterns — like which words and ideas usually go together, and how helpful explanations are usually structured. When you ask a question, Buddy uses those learned patterns to generate a response that is likely to be helpful, rather than remembering a fact the way you remember your own birthday. It is a bit like a matatu radio playing exactly the song in its playlist — not because it understands music, but because it was built to respond that way, just far more advanced. What is one thing you'd like to understand better about how Buddy actually works?",
+            "q_sw": "Iwapo Buddy hayuko hai, anajuaje kujibu maswali yangu?",
+            "a_sw": "Buddy alifunzwa kwa kutumia maandishi mengi sana, jambo lililomfundisha mifumo — kama vile maneno na mawazo gani hukaa pamoja mara kwa mara, na jinsi maelezo yenye manufaa kwa kawaida hupangwa. Unapouliza swali, Buddy hutumia mifumo hiyo aliyojifunza kutoa jibu linalowezekana kuwa na manufaa, badala ya kukumbuka ukweli kama unavyokumbuka siku yako ya kuzaliwa. Ni sawa kidogo na redio ya matatu inayocheza wimbo uliopo kwenye orodha yake — si kwa sababu inaelewa muziki, bali kwa sababu ilijengwa kujibu hivyo, ila kwa hali ya juu zaidi. Ni jambo gani moja ungependa kuelewa vizuri zaidi kuhusu jinsi Buddy anavyofanya kazi kwa kweli?"
+          }
+        ],
+        "diagrams": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "subject": "Integrated Science",
+  "grade": 7,
+  "curriculum": "KICD CBC 2021 (Junior Secondary School Curriculum Design, Grade 7)",
+  "source_verified": true,
+  "strand": {
+    "id": "2.0",
+    "title": "Mixtures, Elements and Compounds",
+    "sub_strands": [
+      {
+        "id": "2.1",
+        "title": "Mixtures",
+        "lessons": 14,
+        "kicd_learning_outcomes": [
+          "classify different types of mixtures as homogeneous or heterogeneous",
+          "distinguish between pure and impure substances using melting and boiling points",
+          "separate mixtures using different methods",
+          "appreciate the use of different methods of separating mixtures in day-to-day life"
+        ],
+        "key_inquiry_questions": [
+          "How can you classify mixtures?",
+          "What should be considered when separating various mixtures?"
+        ],
+        "key_concepts": [
+          "A homogeneous mixture has a uniform composition throughout — you cannot see the different parts (e.g. salt fully dissolved in water)",
+          "A heterogeneous mixture has a non-uniform composition — you can see the different parts (e.g. sand mixed with stones)",
+          "Mixtures can be solid-solid, solid-liquid, liquid-liquid, or gas-gas combinations",
+          "A pure substance has a fixed, exact melting and boiling point; an impure substance melts or boils over a range of temperatures",
+          "Simple distillation separates a liquid from a dissolved solid, or separates two liquids with different boiling points",
+          "Filtration separates an insoluble solid from a liquid",
+          "Decantation carefully pours off a liquid, leaving heavier settled solids behind",
+          "A magnet separates magnetic materials (like iron filings) from a mixture",
+          "Sublimation separates a substance that turns directly from solid to gas (like iodine) from a mixture",
+          "Paper chromatography separates different dissolved substances, like dyes, based on how far each travels",
+          "Solvent extraction uses a liquid that dissolves one substance in a mixture but not another",
+          "Crystallization separates a dissolved solid from a solution by evaporating the liquid until crystals form"
+        ],
+        "kenyan_examples": [
+          "Homogeneous mixture: sugar completely dissolved in tea, or salt dissolved in water for cooking",
+          "Heterogeneous mixture: murram or soil with visible stones, or githeri with visible beans and maize",
+          "Decantation: pouring off clear water from a container after mud has settled at the bottom, a common practice with river or borehole water",
+          "Filtration: straining milk through cloth to remove impurities, a practice used on many Kenyan dairy farms",
+          "Crystallization: how sukari nguru (traditional brown sugar) crystals form as sugarcane juice is boiled and water evaporates",
+          "Industrial application: fractional distillation of crude oil at Mombasa's oil refinery separates petrol, diesel, and kerosene"
+        ],
+        "qa_pairs": [
+          {
+            "q": "What is the difference between a homogeneous and a heterogeneous mixture?",
+            "a": "A homogeneous mixture looks uniform throughout — you cannot see separate parts, like sugar fully dissolved in tea. A heterogeneous mixture is non-uniform — you can clearly see the different parts, like githeri with visible beans and maize kernels. The key test is whether your eye can spot different components. Can you think of one homogeneous and one heterogeneous mixture from your own kitchen?"
+          },
+          {
+            "q": "How would you separate sand from water?",
+            "a": "You would use filtration, since sand does not dissolve in water. You pour the mixture through a filter paper or cloth — the water passes through while the sand is trapped behind. This is the same principle used when straining milk through cloth on a farm to remove solid impurities. What do you think would happen if you tried to filter salt water instead of sandy water?"
+          },
+          {
+            "q": "Why does crystallization work to separate salt from salty water?",
+            "a": "Crystallization works because when you heat salty water, the water evaporates as steam while the dissolved salt cannot evaporate — it stays behind and forms solid crystals as the water disappears. This is exactly how sukari nguru, traditional brown sugar, forms as sugarcane juice is boiled down until sugar crystals remain. What do you think would happen if you stopped heating the salty water halfway through?"
+          },
+          {
+            "q": "What is the difference between a pure substance and an impure substance, based on melting point?",
+            "a": "A pure substance melts or boils at one exact, fixed temperature — pure water always boils at 100 degrees Celsius at sea level. An impure substance, like salty water, melts or boils over a range of temperatures instead of one exact point, because the dissolved impurity disrupts the normal pattern. This is actually why adding salt to water when cooking ugali slightly changes its boiling point. Why do you think scientists use melting and boiling points as a way to test how pure a substance is?"
+          }
+        ],
+        "diagrams": [
+          {"topic": "Types of mixtures (homogeneous vs heterogeneous)", "status": "needed", "source": "to_source_wikimedia_or_commission"},
+          {"topic": "Simple distillation apparatus setup", "status": "needed", "source": "to_source_wikimedia_or_commission"},
+          {"topic": "Filtration setup with filter paper and funnel", "status": "needed", "source": "to_source_wikimedia_or_commission"}
+        ]
+      },
+      {
+        "id": "2.2",
+        "title": "Acids, Bases and Indicators",
+        "lessons": 15,
+        "kicd_learning_outcomes": [
+          "use plant extracts as acid-base indicators",
+          "categorize different household solutions as either acidic or basic using indicators",
+          "determine the strength of acids and bases using universal indicator",
+          "outline applications of acids, bases and indicators in real life",
+          "appreciate the applications of acids and bases in real life"
+        ],
+        "key_inquiry_questions": [
+          "How can you identify a substance as being acidic or basic?",
+          "What is the significance of acids and bases?"
+        ],
+        "key_concepts": [
+          "An indicator is a substance that changes colour depending on whether it touches an acid or a base",
+          "Litmus paper: turns red in acid, turns blue in base",
+          "Methyl orange: turns red/pink in acid, turns yellow in base",
+          "Phenolphthalein: stays colourless in acid, turns pink in base",
+          "Plant extracts, such as boiled purple cabbage or hibiscus flower petals, can act as natural acid-base indicators",
+          "A universal indicator shows a range of colours corresponding to a pH scale from very acidic (red) through neutral (green) to very basic (purple/dark blue)",
+          "The pH scale runs from 0 to 14 — below 7 is acidic, 7 is neutral, above 7 is basic",
+          "Strong acids and bases have pH values far from 7; weak acids and bases have pH values closer to 7"
+        ],
+        "kenyan_examples": [
+          "Acidic household substances: lemon juice, tamarind (ukwaju), vinegar, and soft drinks",
+          "Basic household substances: baking soda used for chapati, bar soap, and ash water used in traditional cooking",
+          "Testing soil acidity is a real agricultural practice in Kenya — farmers add lime to acidic soil to improve crop yields",
+          "Antacid tablets, used to relieve stomach upset, work by neutralizing excess stomach acid",
+          "Purple cabbage or hibiscus (like the roselle flower used for tea) can be boiled to make a natural indicator at home or in a low-resource classroom"
+        ],
+        "qa_pairs": [
+          {
+            "q": "How can you tell if a household liquid is acidic or basic using litmus paper?",
+            "a": "Dip blue litmus paper into the liquid. If it turns red, the liquid is acidic — like lemon juice or vinegar. If you dip red litmus paper in and it turns blue, the liquid is basic — like soapy water or baking soda solution. This simple colour change test works because litmus is naturally sensitive to acidity and alkalinity. What household liquid would you like to test first, and what do you predict the result will be?"
+          },
+          {
+            "q": "How can you make a natural acid-base indicator at home?",
+            "a": "You can boil purple cabbage leaves or hibiscus petals, like roselle flowers used for tea, in water and use the resulting coloured liquid as an indicator. This liquid changes colour when added to different substances — often turning reddish in acids and greenish or yellowish in bases. This is a low-cost way to test substances without needing laboratory chemicals like litmus paper. Why do you think plant pigments react to acids and bases the same way manufactured indicators do?"
+          },
+          {
+            "q": "Why do farmers add lime to acidic soil?",
+            "a": "Lime is a base, and adding it to acidic soil neutralizes some of the excess acidity, bringing the soil pH closer to neutral, which most crops grow best in. This is a real agricultural practice used across Kenya to improve poor, overly acidic soils and increase crop yields. This shows a direct link between a chemistry concept and a real farming decision that affects food production. Why do you think testing soil pH before planting could save a farmer money on wasted fertilizer or lime?"
+          },
+          {
+            "q": "What does the pH scale tell us about a substance?",
+            "a": "The pH scale runs from 0 to 14 and tells us how acidic or basic a substance is. A pH below 7 means the substance is acidic, with lower numbers being more strongly acidic. A pH above 7 means it is basic, with higher numbers being more strongly basic. A pH of exactly 7 is neutral, like pure water. Antacid tablets work by having a basic pH that neutralizes the acidic environment in an upset stomach. If a substance had a pH of 2, would you expect it to be strongly acidic, weakly acidic, or basic?"
+          }
+        ],
+        "diagrams": [
+          {"topic": "pH scale with colour gradient from 0 to 14", "status": "needed", "source": "to_source_wikimedia_or_commission"},
+          {"topic": "Litmus paper colour change chart (acid vs base)", "status": "needed", "source": "to_source_wikimedia_or_commission"}
+        ]
+      },
+      {
+        "id": "2.3",
+        "title": "Solid-Liquid Mixture Separation (Water Purification)",
+        "type": "community_service_learning_project",
+        "lessons": 4,
+        "project_title": "Water Purification",
+        "kicd_learning_outcomes": [
+          "identify nearby sources of water in the community",
+          "categorise water from different sources into clean and dirty water",
+          "identify appropriate materials for separating clean water from solid in the dirty water",
+          "make a homemade water filter using locally available materials",
+          "use the homemade water filter to separate clean water from solid in the dirty water",
+          "explore sustainable long-term strategies of making river water clean for use in the community",
+          "carry out research in the community on factors that make communal water dirty",
+          "appreciate the need to sensitize the community on importance of cleanliness of river water"
+        ],
+        "key_inquiry_questions": [
+          "What causes clean river water from the source to become dirty?",
+          "How can cleanliness of river water from the source be maintained?"
+        ],
+        "materials_needed": [
+          "Plastic soda bottle", "Drinking straw", "Gravel or small stones", "Clean sand",
+          "Charcoal", "Cotton balls, small cloth, or coffee filter", "Garden soil (for testing)",
+          "Water samples", "Scissors or knife"
+        ],
+        "project_guidance": {
+          "overview": "This is a hands-on Community Service Learning project, not a standard classroom lesson. Students build a real homemade water filter using layered materials, test it on real local water sources, and engage their community on water cleanliness.",
+          "layering_order_bottom_to_top": [
+            "2 inches cotton wool, cloth, or coffee filter (holds everything in place)",
+            "2 inches charcoal (removes contaminants through chemical absorption)",
+            "2 inches gravel or small stones (filters out large sediment like leaves or debris)",
+            "4 inches clean sand (removes fine impurities)"
+          ],
+          "safety_note": "Filtered water through this homemade method should NOT be used as drinking water unless it is also boiled thoroughly afterward — the filter removes solids but does not guarantee the water is free from harmful bacteria or chemical pollutants.",
+          "buddy_interaction_note": "Since this project is done in the community and physical world, Buddy's role here is different from a normal Q&A sub-strand. Buddy should be able to: (1) explain the layering order and why each layer matters when asked, (2) answer questions about why certain materials remove certain impurities, (3) help a student think through their research on local water pollution causes, and (4) encourage recording findings, without pretending to observe the actual community water testing itself."
+        },
+        "qa_pairs": [
+          {
+            "q": "Why does a homemade water filter use different layers in a specific order?",
+            "a": "Each layer removes a different type of impurity, working from largest particles to smallest. Gravel or small stones catch large debris like leaves and insects first. Sand then removes finer particles that slip past the gravel. Charcoal absorbs contaminants at a chemical level, trapping smaller pollutants. If you mixed all the materials together instead of layering them, the filter would work far less effectively, because water needs to pass through progressively finer barriers. Why do you think starting with the coarsest material and ending with the finest makes the filter more effective than the reverse order?"
+          },
+          {
+            "q": "Why shouldn't you drink water straight from a homemade filter without boiling it first?",
+            "a": "A homemade filter removes visible solids like sand, mud, and debris, but it cannot remove harmful bacteria, viruses, or dissolved chemical pollutants that might be in the water. Boiling the filtered water afterward kills disease-causing microorganisms that filtering alone cannot remove. This is why in many parts of Kenya, families both filter and boil water drawn from rivers or unprotected wells before drinking it. What do you think could happen if someone assumed filtered water was automatically safe to drink without boiling?"
+          },
+          {
+            "q": "What kinds of human activities make river water dirty near its source?",
+            "a": "Common causes include washing clothes or vehicles directly in the river, disposing of waste or litter near the riverbank, livestock drinking and standing directly in the water, agricultural runoff carrying fertilizers or pesticides into the river, and untreated sewage entering water sources. Understanding these causes is the first step toward a community being able to protect its water source. If you researched your own local river or water source, what is one human activity you think might be affecting its cleanliness?"
+          }
+        ],
+        "diagrams": [
+          {"topic": "Labelled cross-section of homemade water filter layers", "status": "critical_needed", "source": "to_source_wikimedia_or_commission"}
+        ]
+      }
+    ]
+  }
+}

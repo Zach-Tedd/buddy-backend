@@ -1,0 +1,178 @@
+{
+  "subject": "Kiswahili",
+  "grade": 7,
+  "language": "sw",
+  "curriculum": "KICD CBC Kiswahili Gredi ya Saba, Toleo la Kwanza 2022, Iliyorekebishwa 2024",
+  "source_verified": true,
+  "source_note": "Mada, mada ndogo, matokeo maalum na maswali dadisi yamethibitishwa dhidi ya waraka rasmi wa KICD. Maelezo, mifano na maswali-majibu ni asilia. Kiswahili kinahitaji ukaguzi wa mzungumzaji asilia kabla ya matumizi ya mwisho.",
+  "needs_native_review": true,
+  "strand": {
+    "id": "9.0",
+    "title": "Matumizi ya Vifaa vya Kidijitali katika Mawasiliano",
+    "cross_cutting_issue": "Usalama mtandaoni",
+    "links_to_other_subjects": [
+      "English",
+      "Pre-Technical Studies"
+    ],
+    "sub_strands": [
+      {
+        "id": "9.1.1",
+        "title": "Kusikiliza kwa Kina: Sauti /d/ na /nd/",
+        "lessons": 2,
+        "kicd_learning_outcomes": [
+          "kutambua sauti /d/ na /nd/ katika silabi na maneno",
+          "kutamka sauti /d/ na /nd/ ipasavyo ili kuzitofautisha kimatamshi katika silabi na maneno",
+          "kuchangamkia matamshi bora ya sauti /d/ na /nd/ katika mazungumzo ya kawaida ili kufanikisha mawasiliano"
+        ],
+        "key_inquiry_questions": [
+          "Ni maneno yepi unayoyajua yaliyo na sauti /d/ na /nd/?"
+        ],
+        "key_concepts": [
+          "/nd/ huanza na sauti ya pua kabla ya /d/",
+          "Kutamka vibaya kunaweza kubadilisha maana",
+          "Jozi za mtaala: doa/ndoa, duni/nduni, dugu/ndugu",
+          "Jirekodi kwa kifaa cha kidijitali kisha usikilize"
+        ],
+        "kenyan_examples": [
+          "doa (alama chafu) na ndoa (harusi)",
+          "ndugu (jamaa wa familia)"
+        ],
+        "qa_pairs": [
+          {
+            "q": "Nitofautishe vipi sauti /d/ na /nd/?",
+            "a": "Sauti /d/ hutamkwa moja kwa moja, wakati /nd/ huanza na sauti ya pua kabla ya /d/. Jaribu jozi hizi za mtaala: doa/ndoa, duni/nduni, dugu/ndugu. Kutamka vibaya kunaweza kubadilisha maana kabisa: 'doa' ni alama chafu, 'ndoa' ni harusi. Jirekodi ukitamka jozi hizo kisha usikilize. Ni jozi ipi ilikuwa ngumu zaidi?"
+          },
+          {
+            "q": "Ninawezaje kutumia kifaa cha kidijitali kuboresha matamshi?",
+            "a": "Tumia simu au kifaa kingine kujirekodi ukitamka maneno yenye /d/ na /nd/, kisha usikilize na ulinganishe na matamshi ya mwalimu. Unaweza pia kusikiliza vitanzandimi vilivyorekodiwa. Tumia kifaa kwa uwajibikaji na kwa ruhusa ya mzazi au mlezi. Utaboreshaje matamshi yako baada ya kusikiliza rekodi yako?"
+          }
+        ],
+        "diagrams": [],
+        "pronunciation_focus": {
+          "phoneme_pair": [
+            "/d/",
+            "/nd/"
+          ],
+          "source": "Jozi zilizotajwa rasmi katika mtaala wa KICD, Mada 9",
+          "minimal_pairs": [
+            [
+              "doa",
+              "ndoa"
+            ],
+            [
+              "duni",
+              "nduni"
+            ],
+            [
+              "dugu",
+              "ndugu"
+            ]
+          ],
+          "needs_native_review": true
+        }
+      },
+      {
+        "id": "9.2.1",
+        "title": "Kusoma kwa Ufahamu: Kifungu cha Kushawishi",
+        "lessons": 2,
+        "kicd_learning_outcomes": [
+          "kudondoa habari mahususi katika kifungu cha ufahamu cha kushawishi",
+          "kueleza maana ya msamiati na vifungu vya maneno katika kifungu cha ufahamu cha kushawishi",
+          "kueleza habari za kifungu cha ufahamu cha kushawishi kwa ufupi",
+          "kuchangamkia usomaji wa kifungu cha ufahamu cha kushawishi ili kukuza uelewa wa habari"
+        ],
+        "key_inquiry_questions": [
+          "Kifungu cha kushawishi kina sifa gani?"
+        ],
+        "key_concepts": [
+          "Kifungu cha kushawishi humvuta msomaji kukubali wazo au kutenda",
+          "Sifa: hoja zenye mantiki, mifano, lugha ya kuvutia, wito wa kutenda",
+          "Dondoa habari mahususi: nani, nini, wapi, lini"
+        ],
+        "kenyan_examples": [
+          "Tangazo linalowashawishi wanafunzi kutumia mtandao kwa usalama"
+        ],
+        "qa_pairs": [
+          {
+            "q": "Kifungu cha kushawishi ni nini na kina sifa gani?",
+            "a": "Ni kifungu kinachomshawishi msomaji kukubali wazo au kuchukua hatua fulani. Sifa zake ni hoja zenye mantiki, lugha ya kuvutia, mifano na wito wa kutenda. Mfano ni tangazo linalowashawishi wanafunzi kutumia mtandao kwa usalama. Baada ya kusoma, dondoa habari mahususi: nani, nini, wapi na lini. Ni hoja gani ilikushawishi zaidi katika tangazo la mwisho ulilosoma?"
+          },
+          {
+            "q": "Nifanyeje kufupisha habari za kifungu cha kushawishi?",
+            "a": "Tambua hoja kuu ya kila aya, kisha ziandike kwa sentensi fupi kwa maneno yako mwenyewe bila kunakili kila kitu. Tumia msamiati sahihi ulioujifunza. Hoja kuu ya kifungu inaweza kuwa 'Tumia mtandao kwa uangalifu ili kujilinda.' Fupisha kifungu ulichosoma hivi karibuni katika sentensi mbili."
+          }
+        ],
+        "diagrams": []
+      },
+      {
+        "id": "9.3.1",
+        "title": "Insha za Kubuni: Masimulizi, Kujenga Wazo",
+        "lessons": 2,
+        "kicd_learning_outcomes": [
+          "kutambua vipengele vinavyozingatiwa kujenga wazo katika insha ya masimulizi",
+          "kueleza vipengele vinavyojenga wazo katika insha ya masimulizi",
+          "kuandika insha ya masimulizi akikuza wazo katika aya ipasavyo",
+          "kufurahia utunzi wa insha za masimulizi zenye mpangilio mzuri wa wazo"
+        ],
+        "key_inquiry_questions": [
+          "Ni sehemu gani kuu katika mpangilio wa matukio ya insha ya masimulizi?"
+        ],
+        "key_concepts": [
+          "Mwanzo: utangulizi unaoweka mandhari na wahusika",
+          "Kati: matukio makuu yanayokua",
+          "Hitimisho: kutatuliwa kwa tukio na funzo",
+          "Kila aya ikuze wazo moja"
+        ],
+        "kenyan_examples": [
+          "Kisa cha msichana anayeepuka hatari ya mtandaoni",
+          "Kisa cha mwanafunzi aliyepokea ujumbe wa ajabu kwenye simu"
+        ],
+        "qa_pairs": [
+          {
+            "q": "Insha ya masimulizi ina sehemu gani?",
+            "a": "Ina mwanzo, unaoweka mandhari na wahusika; kati, yenye matukio makuu yanayokua; na hitimisho, ambapo tukio hutatuliwa na funzo hutolewa. Kila aya ikuze wazo moja. Mfano ni kisa cha msichana anayeepuka hatari ya mtandaoni. Ungeanzaje insha yako kuhusu kutumia simu kwa uangalifu?"
+          },
+          {
+            "q": "Nikuzeje wazo katika aya moja?",
+            "a": "Anza kwa sentensi kuu inayotaja wazo, kisha ongeza maelezo, mfano au tukio linaloliunga mkono, na umalize kwa sentensi inayounganisha na aya inayofuata. Epuka kuweka mawazo mengi katika aya moja. Andika sentensi kuu ya aya moja ya insha yako."
+          }
+        ],
+        "diagrams": []
+      },
+      {
+        "id": "9.4.1",
+        "title": "Ngeli na Upatanisho wa Kisarufi: KI-VI na LI-YA",
+        "lessons": 2,
+        "kicd_learning_outcomes": [
+          "kutambua viambishi vya upatanisho wa kisarufi vya ngeli ya KI-VI na LI-YA katika sentensi",
+          "kutambua nomino za ngeli ya KI-VI na LI-YA katika matini",
+          "kutumia nomino za ngeli ya KI-VI na LI-YA katika matini kwa kuzingatia upatanisho ufaao wa kisarufi",
+          "kuchangamkia kutumia nomino za ngeli ya KI-VI na LI-YA katika matini"
+        ],
+        "key_inquiry_questions": [
+          "Utajuaje kama matini inazingatia kanuni za kisarufi?"
+        ],
+        "key_concepts": [
+          "KI-VI: ki- katika umoja, vi- katika wingi (kitabu, vitabu)",
+          "LI-YA: li- katika umoja, ya- katika wingi (jina, majina)",
+          "Kitenzi na kivumishi hupatana na nomino kwa kiambishi cha ngeli"
+        ],
+        "kenyan_examples": [
+          "Kitabu changu kimepotea / Vitabu vyangu vimepotea",
+          "Jina langu limeandikwa / Majina yangu yameandikwa"
+        ],
+        "qa_pairs": [
+          {
+            "q": "Ngeli ya KI-VI inafanyaje kazi?",
+            "a": "Nomino za KI-VI huanza na 'ki-' katika umoja na 'vi-' katika wingi, na viambishi vya upatanisho ni ki- na vi-. Mfano: 'Kitabu changu kimepotea' (umoja) na 'Vitabu vyangu vimepotea' (wingi). Mifano mingine ni kiti-viti na kikombe-vikombe. Badilisha sentensi 'Kikombe kimevunjika' iwe wingi."
+          },
+          {
+            "q": "Ngeli ya LI-YA ina sifa gani?",
+            "a": "Upatanisho wa LI-YA hutumia 'li-' katika umoja na 'ya-' katika wingi, na nomino nyingi hupata 'ma-' katika wingi: jina-majina, jicho-macho, dirisha-madirisha. Mfano: 'Jina langu limeandikwa' na 'Majina yangu yameandikwa'. Andika sentensi kuhusu dirisha la darasa lenu katika umoja na wingi."
+          }
+        ],
+        "diagrams": []
+      }
+    ]
+  }
+}

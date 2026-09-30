@@ -1,0 +1,180 @@
+{
+  "subject": "Kiswahili",
+  "grade": 7,
+  "language": "sw",
+  "curriculum": "KICD CBC Kiswahili Gredi ya Saba, Toleo la Kwanza 2022, Iliyorekebishwa 2024",
+  "source_verified": true,
+  "source_note": "Mada, mada ndogo, matokeo maalum na maswali dadisi yamethibitishwa dhidi ya waraka rasmi wa KICD. Maelezo, mifano na maswali-majibu ni asilia. Kiswahili kinahitaji ukaguzi wa mzungumzaji asilia kabla ya matumizi ya mwisho.",
+  "needs_native_review": true,
+  "strand": {
+    "id": "2.0",
+    "title": "Lishe Bora",
+    "cross_cutting_issue": "Lishe bora",
+    "links_to_other_subjects": [
+      "English",
+      "Integrated Science",
+      "Agriculture"
+    ],
+    "sub_strands": [
+      {
+        "id": "2.1.1",
+        "title": "Kusikiliza kwa Kina: Sauti /dh/ na /th/",
+        "lessons": 2,
+        "kicd_learning_outcomes": [
+          "kutambua sauti /dh/ na /th/ katika silabi na maneno",
+          "kutamka sauti /dh/ na /th/ ipasavyo katika silabi na maneno",
+          "kutumia maneno yenye sauti /dh/ na /th/ katika sentensi ili kuyatofautisha kimaana",
+          "kuonea fahari matamshi bora ya sauti /dh/ na /th/ katika mazungumzo"
+        ],
+        "key_inquiry_questions": [
+          "Ni maneno yepi unayoyajua yaliyo na sauti /dh/ na /th/?"
+        ],
+        "key_concepts": [
+          "/dh/ hutamkwa kwa mtetemo wa koo; /th/ hutamkwa bila mtetemo",
+          "Zote mbili hutamkwa ulimi ukigusa meno",
+          "Kitanzandimi ni sentensi ya mazoezi ya matamshi"
+        ],
+        "kenyan_examples": [
+          "dhahabu, dhambi, dhaifu, dhamira",
+          "thamani, thelathini, thabiti, thawabu"
+        ],
+        "qa_pairs": [
+          {
+            "q": "Nitofautishe vipi sauti /dh/ na /th/?",
+            "a": "Zote hutamkwa kwa ulimi kugusa meno. Sauti /dh/ ina mtetemo wa koo, kama katika 'dhahabu' na 'dhambi'. Sauti /th/ haina mtetemo, kama katika 'thamani' na 'thelathini'. Weka kidole shingoni; ukihisi mtetemo ni /dh/. Jaribu kutamka 'dhahabu' kisha 'thamani'. Umehisi tofauti gani?"
+          },
+          {
+            "q": "Kitanzandimi ni nini na ninawezaje kukiunda?",
+            "a": "Kitanzandimi ni sentensi fupi yenye maneno mengi yenye sauti zinazofanana, inayotamkwa haraka kwa mazoezi ya matamshi. Unachagua maneno kama thamani, thelathini na thabiti, kisha unayapanga kwa mpangilio wa kuchekesha. Jaribu kuunda chako kwa maneno mawili yenye /th/ na moja yenye /dh/, kisha ukitamke polepole."
+          }
+        ],
+        "diagrams": [],
+        "pronunciation_focus": {
+          "phoneme_pair": [
+            "/dh/",
+            "/th/"
+          ],
+          "source": "Sauti zilizotajwa rasmi katika mtaala wa KICD, Mada 2",
+          "sample_words_dh": [
+            "dhahabu",
+            "dhambi",
+            "dhaifu",
+            "dhamira"
+          ],
+          "sample_words_th": [
+            "thamani",
+            "thelathini",
+            "thabiti",
+            "thawabu"
+          ],
+          "needs_native_review": true
+        }
+      },
+      {
+        "id": "2.2.1",
+        "title": "Kusoma kwa Mapana: Matini ya Kujichagulia",
+        "lessons": 2,
+        "kicd_learning_outcomes": [
+          "kueleza ujumbe wa matini aliyosoma",
+          "kutambua msamiati uliotumiwa katika matini ya kujichagulia",
+          "kutumia ipasavyo msamiati uliotumiwa katika matini aliyosoma",
+          "kujenga mazoea ya kusoma matini za miktadha mbalimbali ili kupanua mawanda ya fikra"
+        ],
+        "key_inquiry_questions": [
+          "Unapenda kusoma matini za aina gani?",
+          "Unazingatia nini unapochagua matini ya kujisomea?"
+        ],
+        "key_concepts": [
+          "Chagua matini kulingana na hamu na kiwango chako",
+          "Andika ujumbe mkuu na msamiati mpya kwenye kijitabu",
+          "Tumia kamusi kwa maneno usiyoyajua"
+        ],
+        "kenyan_examples": [
+          "Makala kuhusu lishe bora katika gazeti la Taifa Leo",
+          "Msamiati: virutubisho, protini, wanga, vitamini"
+        ],
+        "qa_pairs": [
+          {
+            "q": "Nichagueje matini ya kujisomea?",
+            "a": "Chagua matini kuhusu mada unayopenda au unayotaka kujifunza, yenye kiwango kinachokufaa, si rahisi mno wala ngumu mno. Angalia kichwa na uhakikishe matini inatoka chanzo cha kuaminika. Kwa mfano, makala kuhusu lishe bora katika gazeti la Taifa Leo. Andika ujumbe mkuu na maneno mapya kwenye kijitabu chako. Ni mada gani ungependa kusoma zaidi?"
+          },
+          {
+            "q": "Nifanyeje ninapokutana na neno nisilolijua?",
+            "a": "Kwanza jaribu kukisia maana kutokana na maneno yanayolizunguka. Kisha litafute kwenye kamusi na uliandike kwenye kijitabu cha msamiati pamoja na sentensi yako mwenyewe. Mfano: 'virutubisho' ni vitu vya chakula vinavyoujenga na kuulinda mwili. Kulitumia neno jipya mara tatu husaidia kulikumbuka. Tunga sentensi moja kwa neno 'virutubisho'."
+          }
+        ],
+        "diagrams": []
+      },
+      {
+        "id": "2.3.1",
+        "title": "Barua ya Kirafiki ya Kutoa Mwaliko",
+        "lessons": 2,
+        "kicd_learning_outcomes": [
+          "kueleza umuhimu wa barua ya kirafiki ya kutoa mwaliko",
+          "kutambua ujumbe katika barua ya kirafiki ya kutoa mwaliko",
+          "kutambua vipengele vya kimuundo vya barua ya kirafiki ya kutoa mwaliko",
+          "kuandika barua ya kirafiki ya kutoa mwaliko kwa kuzingatia ujumbe, lugha na muundo ufaao",
+          "kufurahia uandishi wa barua ya kirafiki ya kutoa mwaliko ili kufanikisha mawasiliano"
+        ],
+        "key_inquiry_questions": [
+          "Je, ni shughuli gani zinazoweza kukufanya uandike barua ya kirafiki ya kutoa mwaliko?",
+          "Je, ni mambo gani yanayotiliwa maanani katika kuandika barua ya kirafiki ya kutoa mwaliko?"
+        ],
+        "key_concepts": [
+          "Anwani ya mwandishi na tarehe",
+          "Salamu ya mwanzo",
+          "Utangulizi, ujumbe wa mwaliko na hitimisho",
+          "Salamu ya mwisho na jina la mwandishi"
+        ],
+        "kenyan_examples": [
+          "Mwaliko wa chakula cha mchana chenye lishe bora nyumbani",
+          "Mwaliko wa sherehe ya kuzaliwa shuleni"
+        ],
+        "qa_pairs": [
+          {
+            "q": "Barua ya kirafiki ya mwaliko ina sehemu gani?",
+            "a": "Ina anwani ya mwandishi na tarehe, salamu ya mwanzo kama 'Mpendwa Achieng', utangulizi, ujumbe wa mwaliko wenye hafla, siku, saa na mahali, hitimisho, salamu ya mwisho kama 'Rafiki yako', na jina la mwandishi. Mfano ni mwaliko wa chakula cha mchana cha lishe bora nyumbani. Ni hafla gani ungependa kumwalika rafiki?"
+          },
+          {
+            "q": "Lugha ya barua ya kirafiki iweje?",
+            "a": "Lugha iwe ya kirafiki, rahisi na yenye heshima, isiwe rasmi mno wala ya mtaani. Tumia salamu za joto na maneno kama 'karibu' na 'nitafurahi ukija'. Toa siku, saa na mahali kwa usahihi ili mwalikwa asipotee. Kwa nini ni muhimu kuandika saa na mahali kwa usahihi?"
+          }
+        ],
+        "diagrams": []
+      },
+      {
+        "id": "2.4.1",
+        "title": "Aina za Nomino: Nomino za Makundi na za Dhahania",
+        "lessons": 2,
+        "kicd_learning_outcomes": [
+          "kutambua nomino za makundi na za dhahania katika matini",
+          "kutumia nomino za makundi na za dhahania ifaavyo katika matini",
+          "kuchangamkia kutumia nomino za makundi na za dhahania katika mawasiliano"
+        ],
+        "key_inquiry_questions": [
+          "Ni nomino gani za makundi zinazopatikana katika mazingira ya shuleni na ya nyumbani?",
+          "Ni nomino gani za dhahania zinazopatikana katika mazingira ya shuleni na ya nyumbani?"
+        ],
+        "key_concepts": [
+          "Nomino za makundi hutaja kikundi kama kitu kimoja: kundi, familia, jeshi, umati, msafara",
+          "Nomino za dhahania hutaja vitu visivyoshikika: afya, furaha, upendo, njaa, ukweli"
+        ],
+        "kenyan_examples": [
+          "Kundi la ng'ombe likinywa maji mtoni",
+          "Lishe bora huleta afya njema"
+        ],
+        "qa_pairs": [
+          {
+            "q": "Nomino za makundi ni nini?",
+            "a": "Ni nomino zinazotaja kikundi cha watu, wanyama au vitu kama kitu kimoja, kwa mfano kundi, familia, jeshi, umati na msafara. Mfano: 'Kundi la ng'ombe lilikunywa maji mtoni.' Ingawa ng'ombe ni wengi, 'kundi' ni neno moja. Taja nomino moja ya kundi unayoiona shuleni kwenu."
+          },
+          {
+            "q": "Nomino za dhahania ni nini?",
+            "a": "Ni nomino zinazotaja vitu visivyoweza kuguswa wala kuonekana, kama hali au wazo: afya, furaha, upendo, njaa na ukweli. Mfano: 'Lishe bora huleta afya njema.' Huwezi kushika 'afya', lakini unaweza kuihisi. Je, 'njaa' na 'chakula' ni nomino za aina gani kila moja?"
+          }
+        ],
+        "diagrams": []
+      }
+    ]
+  }
+}

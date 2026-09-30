@@ -1,0 +1,165 @@
+{
+  "subject": "Integrated Science",
+  "grade": 7,
+  "curriculum": "KICD CBC 2021 (Junior Secondary School Curriculum Design, Grade 7)",
+  "source_verified": true,
+  "strand": {
+    "id": "4.0",
+    "title": "Force and Energy",
+    "sub_strands": [
+      {
+        "id": "4.1",
+        "title": "Static Electricity",
+        "lessons": 10,
+        "kicd_learning_outcomes": [
+          "demonstrate the existence of static charges in objects",
+          "charge objects using different methods",
+          "demonstrate the effects of force between charged objects",
+          "appreciate the use of static charges in daily life"
+        ],
+        "key_inquiry_questions": [
+          "How do materials get charged?",
+          "What are the dangers of static charges?"
+        ],
+        "key_concepts": [
+          "Static electricity is an electric charge that builds up on the surface of an object, rather than flowing as a current",
+          "Objects can be charged by rubbing (friction) or by induction",
+          "Like charges repel each other; unlike charges attract each other",
+          "Lightning is a large-scale, dangerous natural example of static electricity discharge",
+          "Safety measures around static electricity include avoiding open areas during lightning and understanding how devices like lightning arrestors protect buildings"
+        ],
+        "kenyan_examples": [
+          "Rubbing a plastic ruler or pen on dry hair and using it to attract small pieces of paper is a simple, accessible way to demonstrate static charge in any Kenyan classroom",
+          "Lightning during heavy rains, common in many parts of Kenya during rainy seasons, is a real and important safety topic — understanding lightning arrestors installed on tall buildings connects directly to Pre-Technical studies"
+        ],
+        "qa_pairs": [
+          {
+            "q": "How can you demonstrate static electricity using simple, everyday materials?",
+            "a": "Rub a plastic ruler or pen against dry hair or a woollen cloth for several seconds, then hold it near small pieces of paper. The ruler will attract and pick up the paper pieces because rubbing has transferred an electric charge onto its surface. This works best on a dry day, since moisture in the air can cause the charge to dissipate quickly. Why do you think this experiment works better on a dry day than a humid, rainy one?"
+          },
+          {
+            "q": "Why do two balloons rubbed on hair and brought close together push apart from each other?",
+            "a": "When you rub two balloons on hair, both balloons pick up the same type of charge. Since like charges repel each other, the two similarly charged balloons push apart when brought close. This is the same basic principle — like charges repel, unlike charges attract — that explains many static electricity effects. If you rubbed one balloon on hair and left the other balloon uncharged, what do you predict would happen when you brought them close together?"
+          },
+          {
+            "q": "Why is lightning dangerous, and how do buildings protect against it?",
+            "a": "Lightning is a massive, sudden discharge of static electricity built up in storm clouds, releasing enormous energy when it strikes the ground or a tall object. Buildings use lightning arrestors — metal rods connected to the ground — to safely conduct this electrical discharge into the earth instead of through the building's structure, protecting both the building and the people inside. This is a real safety technology you can often see installed on tall buildings in Kenyan towns and cities. Why do you think lightning tends to strike the tallest object in an area rather than a shorter one nearby?"
+          }
+        ],
+        "diagrams": [
+          {"topic": "Charging by rubbing (friction) - simple illustration", "status": "needed", "source": "to_source_wikimedia_or_commission"},
+          {"topic": "Attraction and repulsion between charged objects", "status": "needed", "source": "to_source_wikimedia_or_commission"}
+        ]
+      },
+      {
+        "id": "4.2",
+        "title": "Electrical Energy",
+        "lessons": 12,
+        "kicd_learning_outcomes": [
+          "identify various sources of electricity in their environment",
+          "set up simple electrical circuits in series and parallel using dry cells, bulbs, ammeters and voltmeters",
+          "classify materials as conductors and non-conductors of electricity",
+          "identify electrical appliances in their locality",
+          "identify safety measures when handling electrical appliances",
+          "appreciate the use of electricity in their daily life"
+        ],
+        "key_inquiry_questions": [
+          "What are the sources of electricity?",
+          "What are the differences between conductors and non-conductors of electricity?"
+        ],
+        "key_concepts": [
+          "Sources of electricity include hydro-electric power, geothermal energy, solar energy, and wind power",
+          "In a series circuit, components are connected in a single loop — if one component fails, the whole circuit stops working",
+          "In a parallel circuit, components are connected in separate branches — one component failing does not stop the others from working",
+          "Conductors allow electric current to pass through them easily (e.g. copper, most metals)",
+          "Non-conductors (insulators) do not allow electric current to pass through easily (e.g. rubber, plastic, wood)",
+          "Safety measures include not touching electrical appliances with wet hands, avoiding overloaded sockets, and switching off appliances not in use"
+        ],
+        "kenyan_examples": [
+          "Kenya generates a significant share of its electricity from geothermal energy, particularly from the Olkaria geothermal fields in the Rift Valley — a genuinely distinctive part of Kenya's energy story",
+          "Hydro-electric power from dams like the Seven Forks scheme along the Tana River is a major electricity source in Kenya",
+          "Solar power is widely used in areas without grid electricity access, charging phones and powering small appliances in many rural homes",
+          "Common electrical appliances familiar to most Kenyan students include electric irons, radios, television sets, and phone chargers"
+        ],
+        "qa_pairs": [
+          {
+            "q": "What are the main sources of electricity available in Kenya?",
+            "a": "Kenya generates electricity from several sources: hydro-electric power from dams such as those along the Tana River, geothermal energy from the Olkaria fields in the Rift Valley, solar power increasingly used in areas without grid access, and wind power from wind farms such as those near Lake Turkana. Kenya is actually notable globally for how much of its electricity comes from geothermal energy specifically. Which of these sources do you think is used to power your own home or school?"
+          },
+          {
+            "q": "What is the difference between a series circuit and a parallel circuit?",
+            "a": "In a series circuit, all components are connected one after another in a single loop, so if one bulb burns out, the entire circuit stops working and every other bulb goes off too. In a parallel circuit, each component is connected on its own separate branch, so if one bulb fails, the others continue working normally. This is actually why most household electrical wiring uses parallel circuits — you don't want your whole house going dark because one bulb burned out. Why do you think old-style Christmas lights, where the whole string went out if one bulb failed, were likely wired in series?"
+          },
+          {
+            "q": "What is the difference between a conductor and a non-conductor of electricity?",
+            "a": "A conductor allows electric current to pass through it easily — most metals, like copper used in electrical wiring, are good conductors. A non-conductor, also called an insulator, does not allow current to pass through easily — materials like rubber, plastic, and dry wood are non-conductors. This is exactly why electrical wires are covered in plastic or rubber insulation, protecting people from the conducting metal wire inside. Why do you think electricians wear rubber-soled shoes and gloves when working with electrical wiring?"
+          },
+          {
+            "q": "What safety measures should you follow when using electrical appliances at home?",
+            "a": "Never touch electrical appliances or switches with wet hands, since water is a good conductor and increases the risk of electric shock. Avoid overloading a single socket with too many appliances at once, which can cause overheating. Always switch off and unplug appliances when not in use, both for safety and to save electricity. These simple habits prevent the majority of common household electrical accidents. Can you think of a specific safety habit your family already practices at home with electrical appliances?"
+          }
+        ],
+        "diagrams": [
+          {
+            "topic": "Series and parallel circuit diagram",
+            "status": "confirmed",
+            "url": "https://commons.wikimedia.org/wiki/File:Series_and_parallel_circuits.svg",
+            "license": "CC-BY-SA-3.0 (attribution required)"
+          },
+          {
+            "topic": "Circuit symbols reference chart",
+            "status": "confirmed",
+            "url": "https://commons.wikimedia.org/wiki/File:Circuit_diagram.svg",
+            "license": "CC0 (public domain)"
+          }
+        ]
+      },
+      {
+        "id": "4.3",
+        "title": "Magnetism",
+        "lessons": 10,
+        "kicd_learning_outcomes": [
+          "classify materials in the environment as magnetic or non-magnetic",
+          "investigate the force between like and unlike poles of magnets",
+          "identify the uses of magnets in day-to-day life",
+          "appreciate the applications of magnets in day-to-day life"
+        ],
+        "key_inquiry_questions": [
+          "How do we identify magnetic materials in our environment?",
+          "How are magnets used in day-to-day life?"
+        ],
+        "key_concepts": [
+          "Magnetic materials are attracted to a magnet — common examples include iron, nickel, and cobalt",
+          "Non-magnetic materials are not attracted to a magnet — examples include wood, plastic, and most types of paper",
+          "Like poles (north-north or south-south) repel each other",
+          "Unlike poles (north-south) attract each other",
+          "A magnetic compass uses a small magnet to align with Earth's magnetic field, helping determine direction",
+          "Magnets have practical uses including sorting scrap metal, in compasses, and in many electrical devices like speakers and motors"
+        ],
+        "kenyan_examples": [
+          "A magnetic compass is used in Social Studies map work in Kenyan schools to determine direction — a direct link between two subjects",
+          "Scrap metal collectors and recycling operations sometimes use magnets to separate magnetic metals like iron from non-magnetic materials like aluminium or plastic",
+          "Simple classroom activity: using a magnet to sort a mixed pile of classroom items — some paperclips, coins, and pencils — into magnetic and non-magnetic groups"
+        ],
+        "qa_pairs": [
+          {
+            "q": "How can you test whether a material is magnetic or non-magnetic?",
+            "a": "Bring a magnet close to the material and observe whether it is attracted toward the magnet. If it is pulled toward the magnet, it is magnetic — like iron, nickel, or cobalt. If nothing happens, the material is non-magnetic — like wood, plastic, or paper. This simple test is exactly how you could sort a mixed pile of classroom objects like paperclips, coins, and pencils into magnetic and non-magnetic groups. If you tested a one-shilling coin with a magnet, what result do you predict, and why?"
+          },
+          {
+            "q": "What happens when you bring two magnets together with their north poles facing each other?",
+            "a": "The two north poles will repel, or push apart from, each other, because like poles always repel. If you flipped one magnet around so a north pole faced a south pole instead, the magnets would attract and pull toward each other instead. This simple rule — like poles repel, unlike poles attract — explains all basic magnetic interactions. Why do you think understanding this rule is useful when designing something like a compass?"
+          },
+          {
+            "q": "How does a magnetic compass help determine direction?",
+            "a": "A compass contains a small magnetized needle that is free to rotate, and it naturally aligns itself with Earth's own magnetic field, with one end consistently pointing toward magnetic north. This is exactly why compasses are used in Social Studies map work to determine direction in the field. This is a great example of how a concept from Integrated Science, magnetism, directly supports skills used in a completely different subject. Can you think of another everyday tool that relies on a scientific principle you have learned about?"
+          }
+        ],
+        "diagrams": [
+          {"topic": "Magnetic field lines between like and unlike poles", "status": "needed", "source": "to_source_wikimedia_or_commission"},
+          {"topic": "Simple compass diagram showing needle alignment", "status": "needed", "source": "to_source_wikimedia_or_commission"}
+        ]
+      }
+    ]
+  }
+}
