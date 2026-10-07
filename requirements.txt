@@ -6,7 +6,7 @@ anthropic==0.25.0
 pydantic==2.13.4
 python-multipart==0.0.9
 httpx==0.28.1
-websockets==16.1.1
+websockets>=11,<16
 google-genai==2.16.0
 faster-whisper==1.2.1
 edge-tts==7.2.8
