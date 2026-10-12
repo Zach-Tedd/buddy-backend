@@ -1,8 +1,9 @@
-from fastapi import APIRouter, HTTPException
+from fastapi import APIRouter, HTTPException, Depends
 from pydantic import BaseModel
+from auth import require_admin
 from database import supabase
 
-router = APIRouter()
+router = APIRouter(dependencies=[Depends(require_admin)])
 
 class StudentCreate(BaseModel):
     org_id: str
@@ -40,7 +41,7 @@ def create_student(student: StudentCreate):
         id=row["id"],
         first_name=row["first_name"],
         last_name=row["last_name"],
-        grade=row["grade"]
+        grade=row["grade"],
     )
 
 @router.get("/students")
