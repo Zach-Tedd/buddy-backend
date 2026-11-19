@@ -67,7 +67,15 @@ def _http_base_url(conn: Request | WebSocket) -> str:
         return PUBLIC_BASE_URL.rstrip("/")
     proto = conn.headers.get("x-forwarded-proto") or conn.url.scheme
     proto = {"ws": "http", "wss": "https"}.get(proto, proto)
-    host = conn.headers.get("x-forwarded-host") or conn.headers.get("host")
+    forwarded_host = conn.headers.get("x-forwarded-host")
+    if forwarded_host:
+        return f"{proto}://{forwarded_host}"
+    host = conn.headers.get("host") or ""
+    # The device's WebSocket client omits the port from its Host header, so
+    # add the port this server is actually listening on (e.g. :8000 locally).
+    server = conn.scope.get("server")
+    if host and ":" not in host and server and server[1] not in (80, 443):
+        host = f"{host}:{server[1]}"
     return f"{proto}://{host}"
 
 
