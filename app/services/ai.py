@@ -1,6 +1,7 @@
 from openai import OpenAI
 from config import DEEPSEEK_API_KEY
 from services.content_loader import load_all_strands, build_curriculum_summary, get_sample_qa_pairs
+from services.tutor import AI_MODEL
 
 client = OpenAI(
     api_key=DEEPSEEK_API_KEY,
@@ -11,6 +12,12 @@ client = OpenAI(
 _science_strands = load_all_strands("science")
 _kiswahili_strands = load_all_strands("kiswahili")
 _ai_literacy_strands = load_all_strands("ai_literacy")
+
+SUBJECT_STRANDS = {
+    "science": _science_strands,
+    "kiswahili": _kiswahili_strands,
+    "ai_literacy": _ai_literacy_strands,
+}
 
 _science_summary = build_curriculum_summary(_science_strands)
 _kiswahili_summary = build_curriculum_summary(_kiswahili_strands)
@@ -103,10 +110,14 @@ SUBJECT_PROMPTS = {
     "ai_literacy": AI_LITERACY_PROMPT_G7,
 }
 
-def ask_ai(question: str, subject: str = "science") -> str:
+def ask_ai(question: str, subject: str = "science", context_note: str | None = None) -> str:
+    """`context_note` tells the tutor about the situation, e.g. that a
+    picture is being shown on the device's screen."""
     system_prompt = SUBJECT_PROMPTS.get(subject, SCIENCE_PROMPT_G7)
+    if context_note:
+        system_prompt = f"{system_prompt}\nCONTEXT FOR THIS QUESTION: {context_note}\n"
     response = client.chat.completions.create(
-        model="deepseek-chat",
+        model=AI_MODEL,
         messages=[
             {"role": "system", "content": system_prompt},
             {"role": "user", "content": question}

@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from database import supabase
-from routers import ask, students
+from routers import ask, students, firmware
 
 app = FastAPI(
     title="Buddy API",
@@ -10,6 +10,8 @@ app = FastAPI(
 
 app.include_router(ask.router, prefix="/api/v1", tags=["ask"])
 app.include_router(students.router, prefix="/api/v1", tags=["students"])
+# Buddy firmware (UNIHIKER K10 voice devices): /buddy/ota/ and /buddy/ws
+app.include_router(firmware.router)
 
 @app.get("/")
 def root():

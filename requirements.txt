@@ -6,3 +6,7 @@ openai==2.51.0
 pydantic==2.13.4
 python-multipart==0.0.9
 httpx==0.28.1
+websockets>=11,<16
+av==19.0.2
+edge-tts==7.3.1
+pillow==13.0.0
